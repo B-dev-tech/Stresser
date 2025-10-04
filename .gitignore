@@ -1,0 +1,8 @@
+/bin
+/*.exe
+/*.dll
+/*.so
+*.log
+*.cache
+.DS_Store
+.env
